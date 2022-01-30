@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+   background-color: lightsalmon;
+}
+
+
+header img{
+    border: 5px double black;
+border-radius: 20px;
+}
